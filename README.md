@@ -24,5 +24,6 @@ PermissionUtil.requestPermission(MainActivity.this, PermissionUtil.PM_CAMERA_STO
 例如：一个权限的名称为android.permission.READ_CONTACTS
    那么你的图片的全名为p_read_contacts.png全小写
 5、添加了图片之后，需要在PermissionUtil里新增权限名称.
+6、
 
 
