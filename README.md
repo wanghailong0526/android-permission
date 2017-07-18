@@ -23,5 +23,6 @@ PermissionUtil.requestPermission(MainActivity.this, PermissionUtil.PM_CAMERA_STO
 4、本项目里只有四个权限，相机，读写，电话，位置，若想加入其它权限，只需要在base-permission/mipmap-xxhdpi加入一张图片，命名规则为：
 例如：一个权限的名称为android.permission.READ_CONTACTS
    那么你的图片的全名为p_read_contacts.png全小写
+5、添加了图片之后，需要在PermissionUtil里新增权限名称
 
 
